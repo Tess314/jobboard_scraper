@@ -5,7 +5,7 @@ from send_email import send_email
 URL = "https://remoteok.io/api"
 keys = ['company','position','tags','location','url']
 
-wanted_tags = ["python", "c", "c#", "java"]
+wanted_tags = ["python", "c", "c#", "java"] #or whatever tags are relevant to you 
 
 def get_jobs():
     resp = requests.get(URL)
