@@ -4,7 +4,12 @@ A python program to scrape job board data and deliver the results via email
 ----------------------
 Installations Required
 ----------------------
-pip install requests
+Type 'pip install requests' into command prompt
+
+-----------
+How to Run
+-----------
+Type 'python job-search.py' into command prompt
 
 -------------------
 Adapted from video:
